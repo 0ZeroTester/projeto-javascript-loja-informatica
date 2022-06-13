@@ -1,6 +1,32 @@
-A criação do site terá como base de produtos, os produtos da razer.
+                                                                      -anotações-
 
-{colocar aqui objetivos para o site, funções, imagens e etc... (tentar se inspirar em outros sites de informática, como Kabum e Pichau.)}
+-----------------------------------
+#Sintaxe da anotação: 
+! = Ação/Ocupação dentro do projeto 
+# = tópico 
+% = necessita ajuste 
+$ = necessita integrante nessa ação
+-----------------------------------
+
+
+A criação do site terá como base de produtos, os produtos da razer.
+trabalhar por enquanto apenas com os seguintes componentes:
+(PC)
+Componentes, como placa de vídeo, processador e etc. 
+Periféricos, como teclado, mouse, fone de ouvido e monitor. 
+
+(Console)
+Joysticks, fones de ouvido GAMER, controles customizados, jogos(?)
+
+(Mobile)
+Acessórios, controles mobile, capinhas. 
+
+!Cada integrante pode pegar uma dessas áreas e desenvolver, o ideal é que essas áreas possam ser acessadas atráves do cabeçalho, assim como está no site razer.com 
+!O indicado é que as páginas a serem desenvolvidas devam ser feitas em outros arquivos html, esses podem ser feitos no VS, e suas versões devem ser atualizadas aqui 
+nos CODES. 
+!index.html é o núcleo central do projeto.
+
+
 
 !Thiago
 {
